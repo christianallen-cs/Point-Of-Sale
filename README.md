@@ -1,0 +1,1 @@
+Created a basic point of sale program, designed to help manage sales transactions. The program includes features such as product management, sales management and an integrated self checkout that includes item properties such as sales tax, discounts, and bottle deposits.
