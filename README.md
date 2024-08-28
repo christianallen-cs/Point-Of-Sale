@@ -1,4 +1,4 @@
-# University At Buffalo
+# UNIVERSITY AT BUFFALO
 
 ## Self Checkout Kiosk
 
